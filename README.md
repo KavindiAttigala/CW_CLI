@@ -21,10 +21,7 @@ Java SDK 21: The system is built using Java SDK version 21.
 Google Gson Library: Used for JSON serialization and deserialization, enabling efficient management of configuration and transaction data. The Gson JAR file is included in the project.
 Setup Instructions
 
-Download the Project:
-Clone the repository to your local system:
-git clone https://github.com/SachinKule17/TicketingSystemCLI.git  
-cd ticketing-system  
+  
 Usage
 
 The system begins by prompting the user to decide whether to load the previous configuration.
