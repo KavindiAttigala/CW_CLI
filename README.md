@@ -3,6 +3,7 @@ Project Overview
 
 The Ticketing System is a multi-threaded application designed to simulate ticket transactions. Vendors can add tickets to a shared pool, while customers purchase tickets at specified intervals. The system ensures that the total number of tickets does not exceed the defined maximum capacity.
 
+
 Key Features:
 User-configurable settings saved to a JSON file.
 Vendors can add tickets to the pool.
